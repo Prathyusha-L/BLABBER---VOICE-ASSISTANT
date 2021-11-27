@@ -3,6 +3,15 @@ Artificial Intelligence personal assistants have become ample in the course of t
 
 ![image](https://user-images.githubusercontent.com/83442712/143538621-afaf26e9-c05b-4585-85bd-5c80ee9a6d2f.png)
 
+Install packages in the terminal section of PyCharm: -
+•	pip install SpeechRecognition
+•	pip install pyttsx3
+•	pip install PyAudio 
+(If this does not install try this: - pip install pipwin then install pipwin install PyAudio)
+•	pip install pywhatkit
+•	pip install pyjokes
+
+
 BLABBER is your personal stress buster
 
 The below picture shows how the song gets played on the device: -
