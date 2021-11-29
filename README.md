@@ -1,4 +1,8 @@
 # BLABBER---VOICE-ASSISTANT
+
+DEMO VIDEO: - https://drive.google.com/drive/folders/1dbDOJOA3zkkdNb2sAmT7vIctkcy1ugMS?usp=sharing 
+
+
 Artificial Intelligence personal assistants have become ample in the course of the most recent couple of years. Applications, for example, Siri, Bixby, Ok Google and Cortana make cell phone clients' day by day schedules that a lot simpler. You might be asking yourself how these capacities. All things considered, the collaborators get outside information (like development, voice, light, GPS readings, outwardly characterized markers, and so forth) by means of the equipment's sensors for additional handling - and take it from that point to work likewise. This assistant that is exclusively built for the people who are looking for music, who wants to stay update with news and want a touch of sarcastic jokes during their stressful day. There is no assistant that is directly present in a smart watch and connects itself with the smart watch health fitness feature.
 
 ![image](https://user-images.githubusercontent.com/83442712/143538621-afaf26e9-c05b-4585-85bd-5c80ee9a6d2f.png)
